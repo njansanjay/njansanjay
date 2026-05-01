@@ -1,6 +1,6 @@
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Skills-000?style=for-the-badge&logo=github" height="50"/>
+<p align="none">
+  <img src="https://img.shields.io/badge/Skills-000?style=for-the-badge&logo=github" height="100"/>
 </p>
 
 <p align="none">

@@ -1,5 +1,7 @@
 
-![Skills](https://img.shields.io/badge/Skills-000?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://img.shields.io/badge/Skills-000?style=for-the-badge&logo=github" height="50"/>
+</p>
 
 <p align="none">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/>&nbsp;&nbsp;
